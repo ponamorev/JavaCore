@@ -1,4 +1,4 @@
-package com.andersen.study.chap7;
+package com.andersen.study.chap7.ov1;
 // Демонстрация перегрузки методов
 class OverloadDemo {
     void test() {
