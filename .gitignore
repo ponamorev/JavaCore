@@ -1,5 +1,5 @@
 .idea/*
-.idea/vcs.xml
 *.class
 out/*
 src/main/java/.idea/*
+src/main/java/main.iml
